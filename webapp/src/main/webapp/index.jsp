@@ -7,6 +7,10 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+
+    <label for="Address"><b>Enter Address</b></label>
+    <input type="text" placeholder="Enter Address" name="Address" id="Address" required>
+    <br>
     
     <label for="mobile"><b>Enter Phone Number</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
@@ -31,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> We appreciate your support! </h1>
+   <h1> We appreciate your support!</h1>
 
   
 </form>
